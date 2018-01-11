@@ -1,0 +1,8 @@
+spring:
+  mail:
+    host: smtp.qq.com
+    username: sender_email@qq.com
+    password: sender_password
+    properties:
+      mail.smtp.auth: true
+      mail.smtp.ssl.enable: true
