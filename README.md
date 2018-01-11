@@ -1,1 +1,3 @@
 # jmail_demo
+
+只是自己写的JavaMail Demo……
